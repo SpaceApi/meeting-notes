@@ -9,3 +9,4 @@
 - [January 6th](20180106-telco.md)
 - [April 21st](20180421-telco.md)
 - [June 5th](20180605-telco.md)
+- [August 14th](20180814-telco.md)
