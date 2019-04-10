@@ -11,3 +11,8 @@
 - [June 5th](20180605-telco.md)
 - [August 14th](20180814-telco.md)
 - [October 09th](20181009-telco.md)
+
+## 2019
+
+- [January 15th](20190115-telco.md)
+- [April 10th](20190409-telco.md)
