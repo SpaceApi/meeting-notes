@@ -15,4 +15,12 @@
 ## 2019
 
 - [January 15th](20190115-telco.md)
-- [April 10th](20190409-telco.md)
+- [April 09th](20190409-telco.md)
+- [June 11th](20190611-telco.md)
+- [October 22th](20191022-telco.md)
+- [December 29th](20191229-36c3.md)
+
+## 2020
+
+- [January 28th](20200128-telco.md)
+- [March 29th](20200329-telco.md)
