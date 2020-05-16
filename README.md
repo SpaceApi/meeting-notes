@@ -24,3 +24,4 @@
 
 - [January 28th](20200128-telco.md)
 - [March 29th](20200329-telco.md)
+- [May 5th](20200510-telco.md)
