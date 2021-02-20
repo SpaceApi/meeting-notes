@@ -24,4 +24,10 @@
 
 - [January 28th](20200128-telco.md)
 - [March 29th](20200329-telco.md)
-- [May 5th](20200510-telco.md)
+- [May 10th](20200510-telco.md)
+- [August 9th](20200809-telco.md)
+- [November 8th](20201108-telco.md)
+
+## 2021
+
+- [January 10th](20210110-telco.md)
